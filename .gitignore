@@ -3,3 +3,5 @@
 *xlsx
 
 #UV
+.python-version
+uv.lock
