@@ -3,3 +3,8 @@
 *xlsx
 
 #UV
+.python-version
+uv.lock
+
+# Cache
+*__pycache__
